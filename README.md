@@ -24,4 +24,4 @@
 
 ## hiring
 
-We are looking for intern/full time, please send your resume to basedet-fte@megvii.com if you are willing to join us and do something exciting!
+We are looking for intern/full time, please send your resume to base-detection-fte@megvii.com if you are willing to join us and do something exciting!
